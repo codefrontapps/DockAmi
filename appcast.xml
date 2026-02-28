@@ -14,10 +14,10 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/codefrontapps/DockAmi/releases/download/v1.2.1/DockAmi.dmg"
+                url="https://github.com/codefrontapps/DockAmi/releases/download/v1.2.1/DockAmi.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="XAiihxjn7UmRgiP0mQLb99mf+/z+f8PnUFQPVPs8BwtpE/sJb9THtvksrbdj041QrIYki8mMHvJmRP1jYkZQCw=="
-                length="1977950"
+                sparkle:edSignature="RH6lD+0HOLVqbVkIcMbPiJDzcqF7XE3p44/NoHVNr/CHbJPItrJYXBPD1cNTZR8lGD3u7rqd39b78LsuRizDDw=="
+                length="2015823"
             />
         </item>
         <item>
