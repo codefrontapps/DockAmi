@@ -3,6 +3,24 @@
     <channel>
         <title>DockAmi</title>
         <item>
+            <title>Version 1.2.1</title>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Fri, 28 Feb 2026 00:00:00 +0000</pubDate>
+            <description><![CDATA[
+                <ul>
+                    <li>Fix copyright text</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/codefrontapps/DockAmi/releases/download/v1.2.1/DockAmi.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="mX6UEavwvoDM5E5Sam4KrNLC4KpCyBH7Fc/j2gyW9brYsVTECgy8sv8AQ6k1OR2wMLjV1vhzEHId21/RbuHYBQ=="
+                length="2440585"
+            />
+        </item>
+        <item>
             <title>Version 1.2.0</title>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
